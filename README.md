@@ -9,7 +9,7 @@ openpyxl筛选Excel数据(数学建模美赛2016C题)
 ### 需求分析
 #### 从1.xlsx中筛选出投资院校，并将所有信息另存到record.xlsx中
 解决方案：
-* 1.安装python3第三方库openpuxl库
+* 1.安装python3第三方库openpyxl库
   - 打开命令行，输入：
   ```
   pip3 install openpyxl
